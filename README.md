@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="assignment banner" width="900">
+  <img src="./assets/banner.png" alt="assignment banner" width="700">
 </p>
