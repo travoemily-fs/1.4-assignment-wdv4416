@@ -10,7 +10,7 @@ welcome to my repository housing my <code><b>1.4 unit testing</b></code> assignm
     <li>[x] you will need to write a single function to obscure a credit card number.</li>
     <li>[x] the function argument should be a string and return a string.</li>
     <li>[x] the credit cards should be between 12-16 numbers in size.</li>
-    <li>[x] any other size should return <code>"invalid credit card</code></li>
+    <li>[x] any other size should return <code>"invalid credit card"</code></li>
     <li>[x] you don't need to validate if the characters are numbers.</li>
     <li>[x] you should have positive and negative unit tests for your function.</li>
   </ul>
