@@ -1,0 +1,14 @@
+{
+  "name": "1.4-unit-testing",
+  "version": "1.0.0",
+  "description": "My NodeJS TDD testing assignment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "Emily Travo",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^30.0.5"
+  }
+}
